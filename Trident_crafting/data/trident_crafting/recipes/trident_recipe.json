@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "111",
+        "323",
+        "323"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:diamond_sword"
+        },
+        "2": {
+            "item": "minecraft:diamond"
+        },
+        "3": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": "1"
+    }
+}
